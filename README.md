@@ -3,7 +3,7 @@
 
 <b>ASP.NET Core MVC</b>
 
- Cookie
+ Cookies
  
  Sessões
  
@@ -14,3 +14,8 @@
  Validações customizadas
  
  Área
+ 
+ Segurança (CSRF, Token, Criptografia).
+
+
+<b>EF Core</b>
