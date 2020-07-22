@@ -3,19 +3,51 @@
 
 <b>ASP.NET Core MVC</b>
 
- Cookies
+ -Cookies
  
- Sessões
+ -Sessões
  
- Filtros
+ -Filtros
  
- Middleware
+ -Middleware
  
- Validações customizadas
+ -Validações customizadas
  
- Área
+ -Área
  
- Segurança (CSRF, Token, Criptografia).
+ -Segurança (CSRF, Token, Criptografia).
 
 
 <b>EF Core</b>
+
+ -CRUD - Criar, Consultar, Atualizar e Deletar.
+
+-Migrations - Criação automática de um script de criação/mudanças na estrutura do banco de dados.
+
+<b>Motor de Template do ASP.NET Core - Razor</b>
+
+-Tag Helper
+
+ -HTML Helper
+
+-ViewComponent
+
+ Layout e Importações
+ 
+ <b>Injeção de Dependência</b>
+-Integrações com outros sistemas/biblotecas:
+
+-Correios
+
+-Pagar.Me
+
+-Gmail.
+
+-Sistema de registro de Log (Serilog)
+
+-Scheduler (Agendador de tarefas - Coravel)
+
+-AutoMapper.
+ 
+ 
+ 
