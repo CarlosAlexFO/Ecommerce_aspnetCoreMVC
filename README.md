@@ -48,6 +48,8 @@
 -Scheduler (Agendador de tarefas - Coravel)
 
 -AutoMapper.
+
+<b>Projeto ministrado pelo Instrutor Elias Ribeiro</b>
  
  
  
