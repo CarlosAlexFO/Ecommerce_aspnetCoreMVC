@@ -1,9 +1,10 @@
 # Ecommerce_aspnetCoreMVC
-Projeto ASP.NET Core MVC
+# Neste Projeto será utilizado os seguintes recuros:
 
-# Neste Projeto será utilizado o ASP.NET Core MVC, onde serão abordados:
-<b> Cookie
-
+<b>ASP.NET Core MVC</b>
+ Cookie
  Sessões
-
  Filtros
+ Middleware
+ Validações customizadas
+ Área
