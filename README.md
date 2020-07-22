@@ -18,13 +18,13 @@
  -Segurança (CSRF, Token, Criptografia).
 
 
-<b>EF Core</b>
+#<b>EF Core</b>
 
  -CRUD - Criar, Consultar, Atualizar e Deletar.
 
 -Migrations - Criação automática de um script de criação/mudanças na estrutura do banco de dados.
 
-<b>Motor de Template do ASP.NET Core - Razor</b>
+#<b>Motor de Template do ASP.NET Core - Razor</b>
 
 -Tag Helper
 
@@ -34,7 +34,7 @@
 
  Layout e Importações
  
- <b>Injeção de Dependência</b>
+ #<b>Injeção de Dependência</b>
 -Integrações com outros sistemas/biblotecas:
 
 -Correios
