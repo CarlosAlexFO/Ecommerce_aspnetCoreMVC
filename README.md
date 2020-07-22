@@ -54,11 +54,7 @@
 
 
 
-
-
-
-
-<b>Projeto ministrado pelo Instrutor Elias Ribeiro</b>
+*<b>Projeto ministrado pelo Instrutor Elias Ribeiro</b>
  
  
  
