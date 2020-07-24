@@ -1,0 +1,35 @@
+﻿@model LojaVirtual.Models.Produto
+
+
+
+
+
+
+<h3>Produto -> Visualizar</h3>
+:)
+
+Razor:
+
+@{
+
+    string nome = "Carlos Alexandre Ferreira de Oliveira";
+
+}
+
+<h3>@nome</h3>
+<br />
+<h2>Produto</h2><br />
+<b>Codigo:</b>@Model.Id<br />
+<b>Nome:</b>@Model.Nome<br />
+<b>Descrição:</b>@Model.Descricao<br />
+<b>Valor:</b>@Model.Valor.ToString("c")<br />
+
+
+
+<br />
+
+Todos os direitos reservados
+<br />
+&copy; @DateTime.Now
+
+@*Muito utilizado para o Rodapé*@
