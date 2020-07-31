@@ -1,7 +1,7 @@
 # Ecommerce_aspnetCoreMVC
 # Neste Projeto será utilizado os seguintes recuros:
 
-#<b>ASP.NET Core MVC</b>
+#<b>C# ASP.NET Core MVC</b>
 
  -Cookies
  
