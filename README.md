@@ -1,7 +1,7 @@
 # Ecommerce_DOTNETCoreMVC
 # Neste Projeto será utilizado os seguintes recuros:
 
-<b>C# ASP.NET Core MVC</b>
+<b>CSharp .NET Core MVC</b>
 
  -Cookies
  
