@@ -24,7 +24,7 @@
 
 -Migrations - Criação automática de um script de criação/mudanças na estrutura do banco de dados.
 
-#<b>Motor de Template do ASP.NET Core - Razor</b>
+#<b>Motor de Template do .NET Core - Razor</b>
 
 -Tag Helper
 
